@@ -3,6 +3,10 @@
 
 connect-cradle is a Cradle session store backed by [cradle](https://github.com/cloudhead/cradle), and is insanely fast :). Requires cradle >= `0.1.0` for the _SETEX_ command.
 
+## WARNING
+  This code is not working atm, more testing needed. Pull request are welcome.
+  Do not blame me if your cat explode while trying to authenticate to your project with this session store! :3
+
 ## Installation
 
 	  $ npm install connect-cradle
