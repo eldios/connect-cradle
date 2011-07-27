@@ -1,7 +1,7 @@
 {
   "name": "connect-cradle",
   "description": "Cradle (CouchDB) session store for Connect",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "El Dios <lele@amicofigo.com>",
   "main": "./index.js",
   "dependencies": { "cradle": "" },

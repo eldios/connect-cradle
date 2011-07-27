@@ -34,5 +34,5 @@ connect-cradle is a Cradle session store backed by [cradle](https://github.com/c
 
 ## Readme.md Thanks
 
-  Tj I almost feel shame to copy bit-a-bit your Readme.md but I'm a really lazy programmer :P
-  Thanks for all your work!
+  Tj I almost feel shame to copy bit-a-bit your most of your connect-redis code but I'm a really lazy programmer :P
+  Thanks for all your work! \o/
